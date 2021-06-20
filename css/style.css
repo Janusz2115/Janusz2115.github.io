@@ -97,12 +97,12 @@ img {
   margin-bottom: 80px; }
   .main_title h2 {
     font-size: 72px;
-    color: #edfc21;
-    opacity: 0.1;
+    color: #ffffff;
+    opacity: 0.7;
     margin: 0;
     line-height: 60px; }
   .main_title h1 {
-    color: #cacab8;
+    color: #000000;
     margin-top: -40px; }
   .main_title p {
     font-size: 14px;
@@ -2757,10 +2757,10 @@ h6 {
     background: -o-linear-gradient(to right, #fcff3c 0%, #cacab8 100%);
     background: linear-gradient(to right, #fcff3c 0%, #cacab8 100%); }
     .new_games_item:hover .upcoming_title a {
-      color: #22195e; }
+      color: #fcff3c; }
   .new_games_item .upcoming_title {
     position: absolute;
-    background: rgba(44, 37, 93, 0.8);
+    background: rgb(0, 0, 0);
     top: 50%;
     width: 100%;
     text-align: center;
